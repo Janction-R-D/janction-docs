@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="2052" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="933" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,7 +155,17 @@
         <mxCell id="LN9f-XrlCzF4qDYMU047-85" value="Purchase" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1c1d494c118603dd-4">
           <mxGeometry x="50" y="150" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LN9f-XrlCzF4qDYMU047-87" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Quick purchase&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-weight: 400; text-align: left; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;Processor Type&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="fontStyle=1;whiteSpace=wrap;html=1;" vertex="1" parent="1c1d494c118603dd-4">
+        <mxCell id="LN9f-XrlCzF4qDYMU047-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1c1d494c118603dd-4" source="LN9f-XrlCzF4qDYMU047-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185" y="390" />
+              <mxPoint x="131" y="390" />
+              <mxPoint x="131" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LN9f-XrlCzF4qDYMU047-87" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Quick purchase&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-weight: 400; text-align: left; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;Processor Type&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="fontStyle=1;whiteSpace=wrap;html=1;" vertex="1" parent="1c1d494c118603dd-4">
           <mxGeometry x="140" y="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LN9f-XrlCzF4qDYMU047-90" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Customized purchase&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1c1d494c118603dd-4">
@@ -181,6 +191,9 @@
         </mxCell>
         <mxCell id="LN9f-XrlCzF4qDYMU047-144" value="&lt;font&gt;Cluster Tasks&lt;/font&gt;" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;whiteSpace=wrap;" vertex="1" parent="1c1d494c118603dd-4">
           <mxGeometry x="60" y="770" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LN9f-XrlCzF4qDYMU047-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-4" source="LN9f-XrlCzF4qDYMU047-98" target="LN9f-XrlCzF4qDYMU047-101">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LN9f-XrlCzF4qDYMU047-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="LN9f-XrlCzF4qDYMU047-43" target="LN9f-XrlCzF4qDYMU047-101">
           <mxGeometry relative="1" as="geometry" />
