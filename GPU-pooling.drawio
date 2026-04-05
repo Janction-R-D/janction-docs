@@ -312,7 +312,7 @@
           <mxGeometry height="30" width="200" x="120" y="535" as="geometry" />
         </mxCell>
         <mxCell id="HoAztrkGiusQyND92Did-4" parent="1" style="text;whiteSpace=wrap;" value="SeaweedFS&amp;QNAP" vertex="1">
-          <mxGeometry height="30" width="100" x="665" y="595" as="geometry" />
+          <mxGeometry height="30" width="120" x="650" y="595" as="geometry" />
         </mxCell>
         <mxCell id="HoAztrkGiusQyND92Did-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Distributed Storage system&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="143.9" y="595" as="geometry" />
